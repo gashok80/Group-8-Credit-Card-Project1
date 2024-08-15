@@ -1,5 +1,5 @@
 # Group-8-Credit-Card-Project1
-What Is this Project About?
+What Is This Project About?
 
 The Credit Card Transactions Dataset provides detailed records of credit card transactions, including information about transaction times, amounts, and associated personal and merchant details. 
 This dataset has over 1.85M rows.
