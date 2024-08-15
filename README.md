@@ -1,13 +1,19 @@
 # Group-8-Credit-Card-Project1
-Credit card transaction data analysis and observations about fraudulent transactions. 
-We looked at both of the resource sites and then with the assistance of Cenan we settled on dataset - Credit Card Transaction Dataset 
-(site link)
-We considered the dataset suitable:- 
-good coverage - (> 1.2 M records)
-Availability of date/time fields.
-Coverage extends over a span of 1.5 yrs (Jan 2019 to June 2020.)
-The information provided includes data about transactions times, amounts, related merchant/customer information and whether the transaction is classified as fraudulent or not.
-Initial exploration with the team to review data available and potential outcomes
-Worked in silo to further review the dataset and detect trends, patterns and anomalies.
-Team reconvened to review findings and to determine trends and patterns of significance. 
-The above steps were repeated until a set of visualizations were selected.
+1. Credit card transaction data analysis and observations about fraudulent transactions. 
+2. Coverage extends over a span of 1.5 yrs (Jan 2019 to June 2020.)
+3. The information provided includes data about transactions times, amounts, related merchant/customer information and whether the transaction is classified as fraudulent or not.
+4.Our goal is analysis credit card transaction data and make observations about fraudulent transactions.
+5. Our project attempts to answer the questions below.
+   Questions
+      1.Does the amount of fraud increase or decrease depending on time of year?
+      2.Do scammers target areas with higher spending power?
+      3.Is there ways to avoid fraud?
+      4. Who is the best type of person for a business to base their products on?
+
+Findings
+1. Women spend more money on shopping compared to men most categories.
+2. 679 of 693 merchants have at least 1 fraud activity detected.
+3. Fraudulent activity concentrated more on NET (online activity) rather than POS (Point of Sale).
+4. Fraudulent transactions are generally lesser in value so they can go unnoticed.
+5. Credit card company can study the customer spending behavior of this group and run promotions based on their spending habits to gain market share.
+
