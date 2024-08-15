@@ -12,12 +12,14 @@ This dataset has over 1.85M rows.
      7. Examine how factors like transaction amount, merchant type, and time influence spending behavior. Study the                   relationships between user demographics and transaction patterns.
 
 Our project attempts to answer the questions below.
+
      1.Does the amount of fraud increase or decrease depending on time of year?
      2.Do scammers target areas with higher spending power?
      3.Is there ways to avoid fraud?
      4. Who is the best type of person for a business to base their products on?
 
 Findings from the Project.
+
      1. Women spend more money on shopping compared to men most categories.
      2. 679 of 693 merchants have at least 1 fraud activity detected.
      3. Fraudulent activity concentrated more on NET (online activity) rather than POS (Point of Sale).
